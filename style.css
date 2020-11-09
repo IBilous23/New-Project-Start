@@ -1,0 +1,52 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(http://img1.reactor.cc/pics/post/рассвет-Днепр-Киев-красивые-картинки-2337893.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+hr {
+	border-color: white;
+	border-width: 4px;
+	max-width: 285px;
+}
+
+h1 {
+	color: gray;
+	font-weight: 700;
+	font-size: 3rem;
+	border-width: 0 3px;
+	margin-top: 120px;
+}
+
+.buffer {
+	height: 10rem;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: white;
+	color: green;
+	border-color: white;
+}
+
+.btn-primary:hover {
+	background-color: black;
+	color: lightgreen;
+	border-color: white;
+	border-width: 4px;
+}
